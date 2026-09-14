@@ -6,8 +6,8 @@ Contém materiais, planos de tópicos, projetos e códigos-fonte usados em trein
 
 ## Estrutura
 
-- **dsi/** Materiais do Departamento de Sistemas de Informação (DSI)
-  - [nivelamento-ia-2026](dsi/nivelamento-ia-2026/) REI-DTIC-DSI CURSO DE APRIMORAMENTO EM DESENVOLVIMENTO AUXILIADO POR INTELIGÊNCIA ARTIFICIAL ORIENTADO À SPEC DRIVEN DEVELOPMENT - SDD
+- **dsi/** :Materiais do Departamento de Sistemas de Informação (DSI)
+  - [nivelamento-ia-2026](dsi/nivelamento-ia-2026/) :REI-DTIC-DSI CURSO DE APRIMORAMENTO EM DESENVOLVIMENTO AUXILIADO POR INTELIGÊNCIA ARTIFICIAL ORIENTADO À SPEC DRIVEN DEVELOPMENT - SDD
 
 ## Referência
 
