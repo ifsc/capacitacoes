@@ -1,0 +1,74 @@
+# Logs
+*.log
+excalidraw.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# Java / Maven / Gradle
+target/
+*.class
+*.jar
+*.war
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+HELP.md
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+blob-report/
+.playwright-mcp/
+
+# PHP / Laravel
+/vendor/
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/bootstrap/ssr
+/bootstrap/cache/*.php
+!/bootstrap/cache/.gitignore
+Homestead.json
+Homestead.yaml
+auth.json
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Local config (not checked-in)
+*.local
+*.local.*
+
+# MCP config (pode conter tokens e credenciais)
+.mcp.json
+
+# Outputs gerados pelo pipeline de análise (artefatos de execução)
+*_sanitized.json
+backlog_priorizado.json
+
+# Arquivos de geração (Docker, Neo4j, etc.)
+**/import/
+**/storage/

@@ -1,0 +1,90 @@
+[
+  {
+    "ticket_id": "TKT-101",
+    "original_ref": "tkt_01",
+    "category": "BUG_CRITICO",
+    "severity": "ALTA",
+    "user_pain": "Tela branca durante fluxo Pix obriga a reiniciar o app.",
+    "proposed_action": "Investigar causa da tela branca; implementar tratamento de exceções e fallback no fluxo Pix."
+  },
+  {
+    "ticket_id": "TKT-102",
+    "original_ref": "tkt_05",
+    "category": "BUG_CRITICO",
+    "severity": "ALTA",
+    "user_pain": "App crasha ao agendar para dia 31 em meses com 30 dias.",
+    "proposed_action": "Corrigir validação de datas; adicionar verificação antes de agendamento."
+  },
+  {
+    "ticket_id": "TKT-103",
+    "original_ref": "tkt_07",
+    "category": "BUG_CRITICO",
+    "severity": "ALTA",
+    "user_pain": "Login biométrico fecha o app imediatamente.",
+    "proposed_action": "Investigar crash na autenticação biométrica; verificar compatibilidade com Samsung S22; adicionar logs detalhados."
+  },
+  {
+    "ticket_id": "TKT-104",
+    "original_ref": "tkt_12",
+    "category": "BUG_CRITICO",
+    "severity": "ALTA",
+    "user_pain": "Transferência debitada mas destinatário não recebeu.",
+    "proposed_action": "Investigar status da transferência; verificar integração com SPI/Pix; implementar conciliação automática."
+  },
+  {
+    "ticket_id": "TKT-105",
+    "original_ref": "tkt_13",
+    "category": "BUG_CRITICO",
+    "severity": "ALTA",
+    "user_pain": "Notificação de transação aprovada atrasa 10 minutos, causando perda de prazo.",
+    "proposed_action": "Otimizar pipeline de notificações; verificar latência no serviço de push; notificar imediatamente pós-confirmação."
+  },
+  {
+    "ticket_id": "TKT-106",
+    "original_ref": "tkt_18",
+    "category": "BUG_CRITICO",
+    "severity": "ALTA",
+    "user_pain": "Módulo Investimentos trava na tela de carregamento após última atualização.",
+    "proposed_action": "Investigar regressão引入da última atualização; verificar logs; implementar fallback para módulo."
+  },
+  {
+    "ticket_id": "TKT-107",
+    "original_ref": "tkt_06",
+    "category": "UX_UI_IMPROVEMENT",
+    "severity": "MEDIA",
+    "user_pain": "Comprovante de transferência difícil de encontrar, requer 3 cliques.",
+    "proposed_action": "Simplificar acesso ao comprovante; colocar botão direto na tela de confirmação ou histórico."
+  },
+  {
+    "ticket_id": "TKT-108",
+    "original_ref": "tkt_16",
+    "category": "UX_UI_IMPROVEMENT",
+    "severity": "MEDIA",
+    "user_pain": "App fica lento para carregar saldo toda sexta-feira de manhã.",
+    "proposed_action": "Analisa gargalos de performance nas sextas; considerar cache ou otimização de queries de saldo."
+  },
+  {
+    "ticket_id": "TKT-109",
+    "original_ref": "tkt_09",
+    "category": "NEW_FEATURE",
+    "severity": "MEDIA",
+    "user_pain": "Solicitação de pagamento de boleto por aproximação com NFC.",
+    "proposed_action": "Desenvolver módulo de pagamento de boleto via NFC; seguir padrão existente para cartões."
+  },
+  {
+    "ticket_id": "TKT-110",
+    "original_ref": "tkt_10",
+    "category": "NEW_FEATURE",
+    "severity": "MEDIA",
+    "user_pain": "Extrato limitado a 30 dias; usuário precisa de 90 dias para imposto de renda.",
+    "proposed_action": "Estender período de extrato para mínimo 90 dias; implementar paginação ou filtro por data."
+  },
+  {
+    "ticket_id": "TKT-111",
+    "original_ref": "tkt_15",
+    "category": "NEW_FEATURE",
+    "severity": "BAIXA",
+    "user_pain": "Ausência de modo escuro no aplicativo.",
+    "proposed_action": "Implementar tema escuro seguindo design system; respeitar preferência do sistema operacional."
+  }
+]

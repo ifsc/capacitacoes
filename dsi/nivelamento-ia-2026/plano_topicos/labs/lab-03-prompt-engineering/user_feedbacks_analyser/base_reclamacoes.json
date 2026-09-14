@@ -1,0 +1,20 @@
+[
+  { "id": "tkt_01", "author": "carlos.silva@email.com", "text": "App lixo! Fui fazer um Pix e a tela ficou branca. Tive que fechar e abrir de novo. CPF: 123.456.789-00." },
+  { "id": "tkt_02", "author": "dev_internal_test", "text": "TESTE DE PRODUCAO - IGNORAR - ASDFGH" },
+  { "id": "tkt_03", "author": "mariana_99", "text": "Odeio o banco de vcs, o gerente Joao da agencia centro foi super grosso comigo hoje!!" },
+  { "id": "tkt_04", "author": "bot_support", "text": "[AUTO-REPLY] Seu ticket foi recebido e será respondido em 24h." },
+  { "id": "tkt_05", "author": "lucas.dev", "text": "Toda vez que tento agendar pro dia 31 num mês que tem 30 dias, o app crasha. Uso um iPhone 13." },
+  { "id": "tkt_06", "author": "pedro_alves", "text": "Gente, cade o comprovante de transferencia??? Antigamente ficava na cara, agora tenho que dar 3 cliques pra achar. Meu telefone é 11 99999-8888 me liguem." },
+  { "id": "tkt_07", "author": "ana.costa33", "text": "Tentei fazer login com biometria e o app simplesmente fecha. Já desinstalei e instalei de novo, continua igual. Samsung Galaxy S22." },
+  { "id": "tkt_08", "author": "bot_nps", "text": "[NPS-AUTO] Obrigado por avaliar nosso atendimento com nota 4." },
+  { "id": "tkt_09", "author": "rogerio.m", "text": "Seria muito bom poder pagar boleto por aproximação com NFC, igual já funciona no cartão. Quando vem isso?" },
+  { "id": "tkt_10", "author": "fernanda_k", "text": "O extrato só carrega os últimos 30 dias. Preciso de pelo menos 90 dias pra fechar meu imposto de renda. Isso é básico!" },
+  { "id": "tkt_11", "author": "dev_staging_02", "text": "TEST ENV - carga de dados de homologação - não processar" },
+  { "id": "tkt_12", "author": "joao.pedro.neves@provedor.com.br", "text": "Fiz uma transferência de R$ 500 pra minha irmã Patricia Neves, CPF 987.654.321-00, e o dinheiro saiu da minha conta mas ela não recebeu. Já faz 2 horas." },
+  { "id": "tkt_13", "author": "claudia_user", "text": "A notificação de transação aprovada chega às vezes 10 minutos depois da operação. Já perdi prazo de confirmação de pagamento por causa disso." },
+  { "id": "tkt_14", "author": "tf_atendimento_bot", "text": "[AUTOATENDIMENTO] Protocolo #88821 gerado. Aguarde contato em até 2 dias úteis." },
+  { "id": "tkt_15", "author": "marcos_inv", "text": "O app não tem modo escuro. Minha esposa usa o banco dela no celular com modo escuro e é muito melhor. Quando vcs vão adicionar isso?" },
+  { "id": "tkt_16", "author": "beatriz.lima", "text": "Toda sexta-feira de manhã o app fica extremamente lento pra carregar o saldo. Parece que tem alguma manutenção mas nunca avisam nada." },
+  { "id": "tkt_17", "author": "usuario_furioso_2024", "text": "ABSURDO! Vocês cobraram tarifa de manutenção na minha conta corrente sendo que meu salário é domiciliado aí. Liguei pro 0800 e o atendente foi grosseiro. E-mail: meu.email.pessoal@gmail.com" },
+  { "id": "tkt_18", "author": "roberto.nunes", "text": "Quando clico em 'Investimentos' o app trava na tela de carregamento e nunca abre. Isso acontece desde a última atualização que fiz ontem. Android 13, Motorola Edge 30." }
+]
